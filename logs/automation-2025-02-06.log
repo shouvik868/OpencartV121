@@ -1,0 +1,67 @@
+16:55:15.861 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OpencartV121\master.xml
+
+16:55:17.286 [main] INFO  testCases.TC003_Login_DDT - Chrome browser launched..
+16:55:19.015 [main] INFO  testCases.TC003_Login_DDT - ****Starting TC003_Login_DDT*****
+16:55:19.100 [main] INFO  testCases.TC003_Login_DDT - Clicked my Account
+16:55:19.505 [main] INFO  testCases.TC003_Login_DDT - Clicked Login
+16:55:22.627 [main] INFO  testCases.TC003_Login_DDT - Email id received..
+16:55:22.694 [main] INFO  testCases.TC003_Login_DDT - Password received..
+16:55:26.184 [main] INFO  testCases.TC003_Login_DDT - Clicked Login button with credential..
+16:55:29.230 [main] INFO  testCases.TC003_Login_DDT - My Account page validation successful..
+16:55:29.685 [main] INFO  testCases.TC003_Login_DDT - Logging out..
+16:55:29.686 [main] INFO  testCases.TC003_Login_DDT - ****test successful***
+16:55:29.686 [main] INFO  testCases.TC003_Login_DDT - ***TC003 finished***
+16:55:29.694 [main] INFO  testCases.TC003_Login_DDT - ****Starting TC003_Login_DDT*****
+16:55:29.762 [main] INFO  testCases.TC003_Login_DDT - Clicked my Account
+16:55:30.079 [main] INFO  testCases.TC003_Login_DDT - Clicked Login
+16:55:33.207 [main] INFO  testCases.TC003_Login_DDT - Email id received..
+16:55:33.303 [main] INFO  testCases.TC003_Login_DDT - Password received..
+16:55:36.719 [main] INFO  testCases.TC003_Login_DDT - Clicked Login button with credential..
+16:55:49.777 [main] INFO  testCases.TC003_Login_DDT - ****test successful***
+16:55:49.777 [main] INFO  testCases.TC003_Login_DDT - ***TC003 finished***
+16:55:49.787 [main] INFO  testCases.TC003_Login_DDT - ****Starting TC003_Login_DDT*****
+16:55:49.853 [main] INFO  testCases.TC003_Login_DDT - Clicked my Account
+16:55:50.188 [main] INFO  testCases.TC003_Login_DDT - Clicked Login
+16:55:53.287 [main] INFO  testCases.TC003_Login_DDT - Email id received..
+16:55:53.354 [main] INFO  testCases.TC003_Login_DDT - Password received..
+16:55:56.856 [main] INFO  testCases.TC003_Login_DDT - Clicked Login button with credential..
+16:56:09.896 [main] INFO  testCases.TC003_Login_DDT - ****test successful***
+16:56:09.896 [main] INFO  testCases.TC003_Login_DDT - ***TC003 finished***
+16:56:09.902 [main] INFO  testCases.TC003_Login_DDT - ****Starting TC003_Login_DDT*****
+16:56:09.984 [main] INFO  testCases.TC003_Login_DDT - Clicked my Account
+16:56:10.295 [main] INFO  testCases.TC003_Login_DDT - Clicked Login
+16:56:13.388 [main] INFO  testCases.TC003_Login_DDT - Email id received..
+16:56:13.446 [main] INFO  testCases.TC003_Login_DDT - Password received..
+16:56:17.117 [main] INFO  testCases.TC003_Login_DDT - Clicked Login button with credential..
+16:56:30.185 [main] INFO  testCases.TC003_Login_DDT - ****test successful***
+16:56:30.185 [main] INFO  testCases.TC003_Login_DDT - ***TC003 finished***
+16:56:30.188 [main] INFO  testCases.TC003_Login_DDT - ****Starting TC003_Login_DDT*****
+16:56:30.261 [main] INFO  testCases.TC003_Login_DDT - Clicked my Account
+16:56:30.592 [main] INFO  testCases.TC003_Login_DDT - Clicked Login
+16:56:33.684 [main] INFO  testCases.TC003_Login_DDT - Email id received..
+16:56:33.739 [main] INFO  testCases.TC003_Login_DDT - Password received..
+16:56:37.209 [main] INFO  testCases.TC003_Login_DDT - Clicked Login button with credential..
+16:56:40.234 [main] INFO  testCases.TC003_Login_DDT - My Account page validation successful..
+16:56:40.651 [main] INFO  testCases.TC003_Login_DDT - Logging out..
+16:56:40.651 [main] INFO  testCases.TC003_Login_DDT - ****test successful***
+16:56:40.651 [main] INFO  testCases.TC003_Login_DDT - ***TC003 finished***
+16:57:47.319 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OpencartV121\master.xml
+
+16:57:49.267 [main] INFO  testCases.TC003_Login_DDT - Chrome browser launched..
+16:57:51.240 [main] INFO  testCases.TC003_Login_DDT - ****Starting TC003_Login_DDT*****
+16:57:51.373 [main] INFO  testCases.TC003_Login_DDT - Clicked my Account
+16:57:51.872 [main] INFO  testCases.TC003_Login_DDT - Clicked Login
+16:57:55.241 [main] INFO  testCases.TC003_Login_DDT - Email id received..
+16:57:55.405 [main] INFO  testCases.TC003_Login_DDT - Password received..
+16:57:59.384 [main] INFO  testCases.TC003_Login_DDT - Clicked Login button with credential..
+16:58:02.488 [main] INFO  testCases.TC003_Login_DDT - My Account page validation successful..
+16:58:03.169 [main] INFO  testCases.TC003_Login_DDT - Logging out..
+16:58:03.169 [main] INFO  testCases.TC003_Login_DDT - ****test successful***
+16:58:03.169 [main] INFO  testCases.TC003_Login_DDT - ***TC003 finished***
+16:58:03.180 [main] INFO  testCases.TC003_Login_DDT - ****Starting TC003_Login_DDT*****
+16:58:03.248 [main] INFO  testCases.TC003_Login_DDT - Clicked my Account
+16:58:03.882 [main] INFO  testCases.TC003_Login_DDT - Clicked Login
+16:58:06.981 [main] INFO  testCases.TC003_Login_DDT - Email id received..
+16:58:07.043 [main] INFO  testCases.TC003_Login_DDT - Password received..

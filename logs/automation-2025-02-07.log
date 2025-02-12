@@ -1,0 +1,65 @@
+14:41:17.587 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation Confirming..
+14:41:17.631 [main] INFO  testCases.TC001_AccountRegistrationTest - Assertion Successful
+14:41:17.631 [main] INFO  testCases.TC001_AccountRegistrationTest - ***TC001 finished***
+14:47:40.987 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OpencartV121\grouping.xml
+
+14:47:42.660 [main] INFO  testCases.TC002_LoginTest - Chrome browser launched..
+14:47:44.132 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest...
+14:47:44.590 [main] INFO  testCases.TC002_LoginTest - Clicked my Account
+14:47:44.961 [main] INFO  testCases.TC002_LoginTest - Clicked Login
+14:47:48.095 [main] INFO  testCases.TC002_LoginTest - Email id received..
+14:47:48.168 [main] INFO  testCases.TC002_LoginTest - Password received..
+14:47:51.494 [main] INFO  testCases.TC002_LoginTest - Clicked Login button with credential..
+14:48:04.568 [main] INFO  testCases.TC002_LoginTest - Validating web element- MY ACCOUNT.....
+14:48:06.030 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome browser launched..
+14:48:07.153 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Startting TC001****
+14:48:07.389 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked my Account
+14:48:07.856 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked Register
+14:48:07.965 [main] INFO  testCases.TC001_AccountRegistrationTest - First name set
+14:48:08.029 [main] INFO  testCases.TC001_AccountRegistrationTest - Last name set
+14:48:08.105 [main] INFO  testCases.TC001_AccountRegistrationTest - Email set
+14:48:11.196 [main] INFO  testCases.TC001_AccountRegistrationTest - Telephone no set
+14:48:11.256 [main] INFO  testCases.TC001_AccountRegistrationTest - Password set
+14:48:11.321 [main] INFO  testCases.TC001_AccountRegistrationTest - Confirm Password set
+14:48:11.397 [main] INFO  testCases.TC001_AccountRegistrationTest - Policy checked
+14:48:13.867 [main] INFO  testCases.TC001_AccountRegistrationTest - Submit Clicked
+14:48:18.875 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation Confirming..
+14:48:18.944 [main] INFO  testCases.TC001_AccountRegistrationTest - Assertion Successful
+14:48:18.945 [main] INFO  testCases.TC001_AccountRegistrationTest - ***TC001 finished***
+14:56:15.902 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OpencartV121\grouping.xml
+
+14:56:17.901 [main] INFO  testCases.TC002_LoginTest - Chrome browser launched..
+14:56:18.889 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest...
+14:56:19.273 [main] INFO  testCases.TC002_LoginTest - Clicked my Account
+14:56:19.792 [main] INFO  testCases.TC002_LoginTest - Clicked Login
+14:56:22.962 [main] INFO  testCases.TC002_LoginTest - Email id received..
+14:56:23.043 [main] INFO  testCases.TC002_LoginTest - Password received..
+14:56:26.602 [main] INFO  testCases.TC002_LoginTest - Clicked Login button with credential..
+14:56:29.641 [main] INFO  testCases.TC002_LoginTest - Validating web element- MY ACCOUNT.....
+14:56:29.644 [main] INFO  testCases.TC002_LoginTest - Validation successful..
+14:56:29.644 [main] INFO  testCases.TC002_LoginTest - ***TC002 finished***
+14:56:31.303 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome browser launched..
+14:56:32.154 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Startting TC001****
+14:56:32.736 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked my Account
+14:56:33.253 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked Register
+14:56:33.556 [main] INFO  testCases.TC001_AccountRegistrationTest - First name set
+14:56:33.651 [main] INFO  testCases.TC001_AccountRegistrationTest - Last name set
+14:56:33.762 [main] INFO  testCases.TC001_AccountRegistrationTest - Email set
+14:56:36.850 [main] INFO  testCases.TC001_AccountRegistrationTest - Telephone no set
+14:56:36.957 [main] INFO  testCases.TC001_AccountRegistrationTest - Password set
+14:56:37.057 [main] INFO  testCases.TC001_AccountRegistrationTest - Confirm Password set
+14:56:37.174 [main] INFO  testCases.TC001_AccountRegistrationTest - Policy checked
+14:56:39.881 [main] INFO  testCases.TC001_AccountRegistrationTest - Submit Clicked
+14:56:44.885 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation Confirming..
+14:56:44.992 [main] INFO  testCases.TC001_AccountRegistrationTest - Assertion Successful
+14:56:44.993 [main] INFO  testCases.TC001_AccountRegistrationTest - ***TC001 finished***
+14:57:08.091 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OpencartV121\grouping.xml
+
+14:57:09.840 [main] INFO  testCases.TC002_LoginTest - Chrome browser launched..
+14:57:11.023 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest...
+14:57:11.420 [main] INFO  testCases.TC002_LoginTest - Clicked my Account
+14:57:11.916 [main] INFO  testCases.TC002_LoginTest - Clicked Login
+14:57:15.115 [main] INFO  testCases.TC002_LoginTest - Email id received..

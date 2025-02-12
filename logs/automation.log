@@ -1,0 +1,9 @@
+13:17:18.858 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest...
+13:17:19.179 [main] INFO  testCases.TC002_LoginTest - Clicked my Account
+13:17:20.475 [main] INFO  testCases.TC002_LoginTest - Clicked Login
+13:17:23.580 [main] INFO  testCases.TC002_LoginTest - Email id received..
+13:17:23.615 [main] INFO  testCases.TC002_LoginTest - Password received..
+13:17:27.421 [main] INFO  testCases.TC002_LoginTest - Clicked Login button with credential..
+13:17:30.513 [main] INFO  testCases.TC002_LoginTest - Validating web element- MY ACCOUNT.....
+13:17:30.517 [main] INFO  testCases.TC002_LoginTest - Validation successful..
+13:17:30.517 [main] INFO  testCases.TC002_LoginTest - ***TC002 finished***

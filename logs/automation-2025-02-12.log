@@ -1,0 +1,67 @@
+20:09:26.634 [main] INFO  testCases.TC002_LoginTest - Validating web element- MY ACCOUNT.....
+20:09:26.676 [main] INFO  testCases.TC002_LoginTest - Validation successful..
+20:09:26.677 [main] INFO  testCases.TC002_LoginTest - ***TC002 finished***
+20:12:32.181 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OpencartV121\grid-docker.xml
+
+20:12:32.645 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - Using local execution process..
+20:12:32.645 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Using local execution process..
+20:12:44.074 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Edge browser launched..
+20:12:53.249 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest...
+20:12:54.823 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Clicked my Account
+20:12:59.343 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Clicked Login
+20:13:04.025 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Email id received..
+20:13:04.433 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Password received..
+20:13:04.676 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - Firefox browser launched..
+20:13:06.942 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest...
+20:13:07.515 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - Clicked my Account
+20:13:11.137 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Clicked Login button with credential..
+20:13:11.245 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - Clicked Login
+20:13:24.235 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Validating web element- MY ACCOUNT.....
+20:13:24.313 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - Email id received..
+20:13:24.441 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - Password received..
+20:14:08.151 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OpencartV121\grid-docker.xml
+
+20:14:08.652 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - Using remote execution process..
+20:14:08.652 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Using remote execution process..
+20:14:08.670 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - On linux-grid..
+20:14:08.670 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - On linux-grid..
+20:14:08.671 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - in Firefox
+20:14:08.671 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - in Edge
+20:16:48.858 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OpencartV121\master.xml
+
+20:16:49.192 [main] INFO  testCases.TC002_LoginTest - Using remote execution process..
+20:16:49.200 [main] INFO  testCases.TC002_LoginTest - On linux-grid..
+20:16:49.201 [main] INFO  testCases.TC002_LoginTest - in Firefox
+20:17:13.613 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OpencartV121\master.xml
+
+20:17:15.152 [main] INFO  testCases.TC002_LoginTest - Using remote execution process..
+20:17:15.165 [main] INFO  testCases.TC002_LoginTest - On linux-grid..
+20:17:15.166 [main] INFO  testCases.TC002_LoginTest - in Firefox
+12:50:58.044 [main] INFO  testCases.TC002_LoginTest - Using local execution process..
+12:51:06.548 [main] INFO  testCases.TC002_LoginTest - Firefox browser launched..
+12:51:16.887 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest...
+12:51:17.409 [main] INFO  testCases.TC002_LoginTest - Clicked my Account
+12:51:18.425 [main] INFO  testCases.TC002_LoginTest - Clicked Login
+12:51:21.766 [main] INFO  testCases.TC002_LoginTest - Email id received..
+12:51:21.850 [main] INFO  testCases.TC002_LoginTest - Password received..
+12:51:25.702 [main] INFO  testCases.TC002_LoginTest - Clicked Login button with credential..
+12:51:28.810 [main] INFO  testCases.TC002_LoginTest - Validating web element- MY ACCOUNT.....
+12:51:28.829 [main] INFO  testCases.TC002_LoginTest - Validation successful..
+12:51:28.829 [main] INFO  testCases.TC002_LoginTest - ***TC002 finished***
+13:03:57.887 [main] INFO  testCases.TC002_LoginTest - Using local execution process..
+13:04:03.782 [main] INFO  testCases.TC002_LoginTest - Firefox browser launched..
+13:04:05.546 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest...
+13:04:06.137 [main] INFO  testCases.TC002_LoginTest - Clicked my Account
+13:04:07.122 [main] INFO  testCases.TC002_LoginTest - Clicked Login
+13:04:10.371 [main] INFO  testCases.TC002_LoginTest - Email id received..
+13:04:10.400 [main] INFO  testCases.TC002_LoginTest - Password received..
+13:04:14.075 [main] INFO  testCases.TC002_LoginTest - Clicked Login button with credential..
+13:04:17.195 [main] INFO  testCases.TC002_LoginTest - Validating web element- MY ACCOUNT.....
+13:04:17.199 [main] INFO  testCases.TC002_LoginTest - Validation successful..
+13:04:17.199 [main] INFO  testCases.TC002_LoginTest - ***TC002 finished***
+13:17:09.495 [main] INFO  testCases.TC002_LoginTest - Using local execution process..
+13:17:15.822 [main] INFO  testCases.TC002_LoginTest - Firefox browser launched..
