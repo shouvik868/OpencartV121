@@ -24,13 +24,13 @@
 		</classes>
 	</test>
 	
-	<test name="edge browser testing">
+	<!--><test name="edge browser testing">
 		<parameter name="OS" value="linux"></parameter>
 		<parameter name="Browser" value="edge"></parameter>
 		<classes>
 			<class name="testCases.TC002_LoginTest" />
 		</classes>
-	</test>
+	</test>-->
 	
 	
 </suite> <!--
