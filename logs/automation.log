@@ -7,3 +7,25 @@
 13:17:30.513 [main] INFO  testCases.TC002_LoginTest - Validating web element- MY ACCOUNT.....
 13:17:30.517 [main] INFO  testCases.TC002_LoginTest - Validation successful..
 13:17:30.517 [main] INFO  testCases.TC002_LoginTest - ***TC002 finished***
+16:26:37.249 [main] INFO  testCases.TC002_LoginTest - Using local execution process..
+16:26:40.024 [main] INFO  testCases.TC002_LoginTest - Chrome browser launched..
+16:26:40.635 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest...
+16:26:41.133 [main] INFO  testCases.TC002_LoginTest - Clicked my Account
+16:26:41.799 [main] INFO  testCases.TC002_LoginTest - Clicked Login
+16:26:44.934 [main] INFO  testCases.TC002_LoginTest - Email id received..
+16:26:45.027 [main] INFO  testCases.TC002_LoginTest - Password received..
+16:26:48.766 [main] INFO  testCases.TC002_LoginTest - Clicked Login button with credential..
+16:26:51.855 [main] INFO  testCases.TC002_LoginTest - Validating web element- MY ACCOUNT.....
+16:26:51.857 [main] INFO  testCases.TC002_LoginTest - Validation successful..
+16:26:51.857 [main] INFO  testCases.TC002_LoginTest - ***TC002 finished***
+16:30:15.224 [main] INFO  testCases.TC002_LoginTest - Using local execution process..
+16:30:18.795 [main] INFO  testCases.TC002_LoginTest - Firefox browser launched..
+16:30:19.787 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest...
+16:30:20.212 [main] INFO  testCases.TC002_LoginTest - Clicked my Account
+16:30:20.721 [main] INFO  testCases.TC002_LoginTest - Clicked Login
+16:30:23.928 [main] INFO  testCases.TC002_LoginTest - Email id received..
+16:30:23.955 [main] INFO  testCases.TC002_LoginTest - Password received..
+16:30:27.399 [main] INFO  testCases.TC002_LoginTest - Clicked Login button with credential..
+16:30:30.485 [main] INFO  testCases.TC002_LoginTest - Validating web element- MY ACCOUNT.....
+16:30:30.488 [main] INFO  testCases.TC002_LoginTest - Validation successful..
+16:30:30.488 [main] INFO  testCases.TC002_LoginTest - ***TC002 finished***
