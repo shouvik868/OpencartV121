@@ -26,9 +26,11 @@ public class TC002_LoginTest extends TestBase {
 			LoginPage lp = new LoginPage(driver);
 			lp.setEmailAddress(properties.getProperty("username"));
 			logger.info("Email id received..");
+			Thread.sleep(3000);
 			lp.setPassword(properties.getProperty("password"));
 			//lp.setPassword("abcd2");//checking for force failing
 			logger.info("Password received..");
+			
 			Thread.sleep(3000);
 			lp.clickLogin();
 			logger.info("Clicked Login button with credential..");

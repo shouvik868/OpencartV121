@@ -86,6 +86,7 @@ public class TestBase {
 			//driver remote
 			driver = new RemoteWebDriver(new URI("http://localhost:4444/wd/hub").toURL(), capabilities);
 			//java.net.URI(string).toURL()--internet solution
+			logger.info("remote driver called..");
 			
 		}
 		
@@ -123,7 +124,9 @@ public class TestBase {
 	
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+		logger.info("before hit URL...");
 		driver.get(properties.getProperty("appURL"));//reading from properties file
+		logger.info("hit URL...");
 		driver.manage().window().maximize();
 	}
 
