@@ -6,7 +6,7 @@
   </listeners>
   <test thread-count="5" name="Test(failed)" verbose="0">
     <parameter name="OS" value="windows"/>
-    <parameter name="Browser" value="firefox"/>
+    <parameter name="Browser" value="chrome"/>
     <classes>
       <class name="testCases.TC002_LoginTest">
         <methods>

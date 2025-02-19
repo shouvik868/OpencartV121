@@ -1,0 +1,66 @@
+14:43:59.962 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest...
+14:44:00.309 [main] INFO  testCases.TC002_LoginTest - Clicked my Account
+14:44:00.996 [main] INFO  testCases.TC002_LoginTest - Clicked Login
+14:44:04.126 [main] INFO  testCases.TC002_LoginTest - Email id received..
+14:44:07.200 [main] INFO  testCases.TC002_LoginTest - Password received..
+14:44:10.962 [main] INFO  testCases.TC002_LoginTest - Clicked Login button with credential..
+14:44:14.035 [main] INFO  testCases.TC002_LoginTest - Validating web element- MY ACCOUNT.....
+14:44:14.038 [main] INFO  testCases.TC002_LoginTest - Validation successful..
+14:44:14.039 [main] INFO  testCases.TC002_LoginTest - ***TC002 finished***
+14:45:50.433 [main] INFO  testCases.TC002_LoginTest - Using local execution process..
+14:45:51.974 [main] INFO  testCases.TC002_LoginTest - Chrome browser launched..
+14:45:51.988 [main] INFO  testCases.TC002_LoginTest - before hit URL...
+14:45:52.516 [main] INFO  testCases.TC002_LoginTest - hit URL...
+14:45:52.611 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest...
+14:45:53.109 [main] INFO  testCases.TC002_LoginTest - Clicked my Account
+14:45:53.763 [main] INFO  testCases.TC002_LoginTest - Clicked Login
+14:45:56.940 [main] INFO  testCases.TC002_LoginTest - Email id received..
+14:46:00.035 [main] INFO  testCases.TC002_LoginTest - Password received..
+14:46:03.497 [main] INFO  testCases.TC002_LoginTest - Clicked Login button with credential..
+14:46:06.580 [main] INFO  testCases.TC002_LoginTest - Validating web element- MY ACCOUNT.....
+14:46:06.583 [main] INFO  testCases.TC002_LoginTest - Validation successful..
+14:46:06.583 [main] INFO  testCases.TC002_LoginTest - ***TC002 finished***
+15:07:52.882 [main] INFO  testCases.TC002_LoginTest - Using local execution process..
+15:07:56.804 [main] INFO  testCases.TC002_LoginTest - Chrome browser launched..
+15:07:56.830 [main] INFO  testCases.TC002_LoginTest - before hit URL...
+15:07:58.008 [main] INFO  testCases.TC002_LoginTest - hit URL...
+15:07:58.081 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest...
+13:35:49.175 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\OpencartV121\master.xml
+
+13:35:49.575 [main] INFO  testCases.TC002_LoginTest - Using local execution process..
+13:36:00.236 [main] INFO  testCases.TC002_LoginTest - Chrome browser launched..
+13:36:00.256 [main] INFO  testCases.TC002_LoginTest - before hit URL...
+13:36:15.605 [main] INFO  testCases.TC002_LoginTest - hit URL...
+13:36:15.733 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest...
+13:36:16.926 [main] INFO  testCases.TC002_LoginTest - Clicked my Account
+13:36:19.053 [main] INFO  testCases.TC002_LoginTest - Clicked Login
+13:36:22.633 [main] INFO  testCases.TC002_LoginTest - Email id received..
+13:36:25.720 [main] INFO  testCases.TC002_LoginTest - Password received..
+13:36:29.518 [main] INFO  testCases.TC002_LoginTest - Clicked Login button with credential..
+13:36:32.731 [main] INFO  testCases.TC002_LoginTest - Validating web element- MY ACCOUNT.....
+13:36:32.735 [main] INFO  testCases.TC002_LoginTest - Validation successful..
+13:36:32.735 [main] INFO  testCases.TC002_LoginTest - ***TC002 finished***
+13:42:43.132 [main] INFO  testCases.TC002_LoginTest - Using local execution process..
+13:42:47.539 [main] INFO  testCases.TC002_LoginTest - Chrome browser launched..
+13:42:47.569 [main] INFO  testCases.TC002_LoginTest - before hit URL...
+13:42:56.680 [main] INFO  testCases.TC002_LoginTest - hit URL...
+13:42:56.786 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest...
+13:42:57.391 [main] INFO  testCases.TC002_LoginTest - Clicked my Account
+13:42:58.268 [main] INFO  testCases.TC002_LoginTest - Clicked Login
+13:43:01.932 [main] INFO  testCases.TC002_LoginTest - Email id received..
+13:43:05.059 [main] INFO  testCases.TC002_LoginTest - Password received..
+13:43:09.392 [main] INFO  testCases.TC002_LoginTest - Clicked Login button with credential..
+13:43:12.494 [main] INFO  testCases.TC002_LoginTest - Validating web element- MY ACCOUNT.....
+13:43:12.498 [main] INFO  testCases.TC002_LoginTest - Validation successful..
+13:43:12.498 [main] INFO  testCases.TC002_LoginTest - ***TC002 finished***
+13:46:06.379 [main] INFO  testCases.TC002_LoginTest - Using local execution process..
+13:46:11.712 [main] INFO  testCases.TC002_LoginTest - Chrome browser launched..
+13:46:11.741 [main] INFO  testCases.TC002_LoginTest - before hit URL...
+13:46:12.773 [main] INFO  testCases.TC002_LoginTest - hit URL...
+13:46:12.848 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest...
+13:46:13.481 [main] INFO  testCases.TC002_LoginTest - Clicked my Account
+13:46:14.195 [main] INFO  testCases.TC002_LoginTest - Clicked Login
+13:46:17.353 [main] INFO  testCases.TC002_LoginTest - Email id received..
+13:46:20.445 [main] INFO  testCases.TC002_LoginTest - Password received..
+13:46:24.602 [main] INFO  testCases.TC002_LoginTest - Clicked Login button with credential..
